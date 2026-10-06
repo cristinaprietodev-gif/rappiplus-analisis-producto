@@ -2,8 +2,7 @@
 
 # 📊 Diagnóstico Estratégico & Analítica de Producto - RappiPlus
 
-## 🎯 Objetivo del Proyecto
-Evaluar el desempeño financiero y el comportamiento del usuario dentro del programa de suscripción **RappiPlus**, analizando la rentabilidad del servicio, la tasa de retención por cohortes y los puntos de fricción (*drop-offs*) en el embudo de conversión para proponer estrategias de crecimiento (*Growth*).
+## 🎯 En este proyecto evaluamos el comportamiento del usuario dentro del programa de suscripción **RappiPlus**, analizando la rentabilidad del servicio, la tasa de retención por cohortes y los puntos de fricción (*drop-offs*) en el embudo de conversión para proponer estrategias de crecimiento (*Growth*).
 
 ---
 
